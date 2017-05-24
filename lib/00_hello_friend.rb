@@ -4,4 +4,5 @@ class Friend
     return "Hello!" if who == nil
     return "Hello, #{who}!"
   end
+
 end
